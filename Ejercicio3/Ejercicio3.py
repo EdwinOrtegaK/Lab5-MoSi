@@ -1,3 +1,9 @@
+# ============================================
+# Modelación y Simulación - Lab 05
+# Ejercicio 3: EDO de orden 2 con coeficientes no constantes
+# Autor: Edwin Ortega 22305, Esteban Zambrano 22119, Juan Pablo Solis 22102
+# ============================================
+
 import sympy as sp
 import numpy as np
 import matplotlib.pyplot as plt
